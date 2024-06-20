@@ -1,2 +1,2 @@
-# GoogleChrome
+# google.com
 Chrome
